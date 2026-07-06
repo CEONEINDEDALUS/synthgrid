@@ -1,7 +1,11 @@
-# ╔═══════════════════════════════════════════════════════════════════╗
-# ║  SYNTHGRID — AI-Powered Excel Automation Node                    ║
+
+<img width="1920" height="1012" alt="nemo" src="https://github.com/user-attachments/assets/46879164-c31a-4bb8-bae1-c49c9a379499" />
+
+
+
+# ║  SYNTHGRID — AI-Powered Excel Automation Node                   ║
 # ║  v1.0.0 | Linux Native | Fedora/KDE Optimized                   ║
-# ╚═══════════════════════════════════════════════════════════════════╝
+# 
 
 ## Overview
 
